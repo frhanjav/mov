@@ -28,4 +28,3 @@ virtualenv==20.23.1
 virtualenv-clone==0.5.7
 virtualenvwrapper==4.8.4
 Werkzeug==2.3.7
-(pip freeze)
